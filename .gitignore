@@ -1,6 +1,7 @@
 data/
 __pycache__/
 *.pyc
+*.py[cod]
 .venv/
 venv/
 .env
@@ -8,3 +9,4 @@ venv/
 .idea/
 .vscode/
 *.log
+*.db
